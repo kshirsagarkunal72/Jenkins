@@ -22,8 +22,8 @@ public class CalculatorProgram {
 	    System.out.println("Enter second number");
 	    number2 = input.nextDouble();*/
 	    
-	    number1=12;
-	    number2=8;
+	    //number1=12;
+	    //number2=8;
 
 	      // performs addition between numbers
 	        result = number1 + number2;
